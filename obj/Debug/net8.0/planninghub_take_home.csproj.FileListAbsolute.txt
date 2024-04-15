@@ -1,0 +1,14 @@
+/Users/rhiannonsmith/code/planninghub_take_home/bin/Debug/net8.0/planninghub_take_home
+/Users/rhiannonsmith/code/planninghub_take_home/bin/Debug/net8.0/planninghub_take_home.deps.json
+/Users/rhiannonsmith/code/planninghub_take_home/bin/Debug/net8.0/planninghub_take_home.runtimeconfig.json
+/Users/rhiannonsmith/code/planninghub_take_home/bin/Debug/net8.0/planninghub_take_home.dll
+/Users/rhiannonsmith/code/planninghub_take_home/bin/Debug/net8.0/planninghub_take_home.pdb
+/Users/rhiannonsmith/code/planninghub_take_home/obj/Debug/net8.0/planninghub_take_home.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rhiannonsmith/code/planninghub_take_home/obj/Debug/net8.0/planninghub_take_home.AssemblyInfoInputs.cache
+/Users/rhiannonsmith/code/planninghub_take_home/obj/Debug/net8.0/planninghub_take_home.AssemblyInfo.cs
+/Users/rhiannonsmith/code/planninghub_take_home/obj/Debug/net8.0/planninghub_take_home.csproj.CoreCompileInputs.cache
+/Users/rhiannonsmith/code/planninghub_take_home/obj/Debug/net8.0/planninghub_take_home.dll
+/Users/rhiannonsmith/code/planninghub_take_home/obj/Debug/net8.0/refint/planninghub_take_home.dll
+/Users/rhiannonsmith/code/planninghub_take_home/obj/Debug/net8.0/planninghub_take_home.pdb
+/Users/rhiannonsmith/code/planninghub_take_home/obj/Debug/net8.0/planninghub_take_home.genruntimeconfig.cache
+/Users/rhiannonsmith/code/planninghub_take_home/obj/Debug/net8.0/ref/planninghub_take_home.dll
